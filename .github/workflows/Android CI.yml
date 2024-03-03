@@ -3,7 +3,7 @@ name: Android CI
 on:
   workflow_dispatch:
   push:
-    分支: [ main ]
+    branches: [ main ]
     paths-ignore:
       - 'README.md'
       - 'README_EN.md'
