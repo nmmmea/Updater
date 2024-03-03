@@ -1,7 +1,7 @@
 name: Android CI
 
 on:
-workflow_dispatch:
+  workflow_dispatch:
   push:
     分支: [ main ]
     paths-ignore:
