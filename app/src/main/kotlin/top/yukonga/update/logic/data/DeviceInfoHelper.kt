@@ -10,6 +10,8 @@ object DeviceInfoHelper {
 
     private const val XIAOMI = "XM"
 
+    private val androidP = Android("9", "P")
+    private val androidQ = Android("10", "Q")
     private val androidR = Android("11", "R")
     private val androidS = Android("12", "S")
     private val androidT = Android("13", "T")
