@@ -15,7 +15,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "top.yukonga.update"
+        applicationId = "top.yukonga.updates"
         minSdk = 26
         targetSdk = 34
         versionCode = getVersionCode()
