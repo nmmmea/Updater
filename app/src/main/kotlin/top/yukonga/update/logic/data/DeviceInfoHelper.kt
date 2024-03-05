@@ -17,7 +17,7 @@ object DeviceInfoHelper {
     private val androidT = Android("13", "T")
     private val androidU = Android("14", "U")
 
-    private val androidList = listOf(androidR, androidS, androidT, androidU)
+    private val androidList = listOf(androidP, androidQ, androidR, androidS, androidT, androidU)
 
     private val CN = Region("", "CN")
     private val GL = Region("_global", "MI", "GL")
